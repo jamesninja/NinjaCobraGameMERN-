@@ -1,0 +1,10 @@
+ul{
+flex-direction: calc();
+padding: 100px 150px 100px 150px;
+width: 50px;
+height: 100px;
+}
+
+.to-picture{
+flex-direction: column;
+}

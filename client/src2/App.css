@@ -1,0 +1,17 @@
+.app-color {
+  color: #0a0f10;
+}
+
+
+body{
+  background-color: rgb(219, 204, 204);
+  text-align: center;
+  margin:0px;
+  font-size: calc(1px + 5vmin); 
+}
+
+
+.App-Fra{
+  border: solide ;
+  margin: 0;
+}

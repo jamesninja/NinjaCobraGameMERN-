@@ -1,0 +1,25 @@
+
+form{
+    display: flex;
+    flex-direction: row;
+}
+
+button {
+    /* font-family : inherit; */
+    font-size   : 100%;
+    display: flex;
+  }
+
+
+
+
+  ul{
+    display: flex;
+    flex-direction: row;
+    background-color: blue;
+    }
+    
+    .to-picture{
+        display: flex;
+        background-color: blue;
+    }
